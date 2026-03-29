@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Maitreyi Ingle👋
+🎓 B.Tech CSE (Cyber Security & Digital Forensics)  
+📍 VIT Bhopal University  
+📅 First Year Student  
+
+💡 I am interested in learning cybersecurity, digital forensics, and improving my coding skills.
+
+🚀 Currently exploring GitHub and digital tools.
 
 <!--
 **maitreyi-ui/maitreyi-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
